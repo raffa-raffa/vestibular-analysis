@@ -9,7 +9,7 @@ Identificar insights sobre notas e desempenho, como a maior nota no curso de Com
 - Python 3
 - Pandas
 - OpenPyXL
-- Google Collab
+- Google Collab 
 - VS Code
 
 ## 🧩 Etapas
@@ -17,6 +17,12 @@ Identificar insights sobre notas e desempenho, como a maior nota no curso de Com
 2. Limpeza e padronização das colunas
 3. Filtragem de dados do curso de Computação
 4. Cálculo da maior nota e exibição do aluno e polo
+
+## 📊 Resultado da análise (Google Colab)
+
+Abaixo está um exemplo da execução do código, mostrando a identificação da maior nota no curso de Computação e o polo correspondente:
+
+![Execução da análise](googleCollab.png)
 
 ## 🚀 Como rodar
 1. Clone este repositório  
